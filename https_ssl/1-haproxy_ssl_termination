@@ -47,5 +47,5 @@ frontend joycebrown-tech-frontend-https
 
 backend joycebrown-tech-backend
         balance roundrobin
-        server 6041-web-01 54.90.233.117:80 check
-        server 6041-web-02  54.90.233.117:80 check
+        server 6037-web-01 54.234.113.233:80 check
+        server 6037-web-02 54.235.3.21:80 check
